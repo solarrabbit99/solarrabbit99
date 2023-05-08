@@ -1,13 +1,21 @@
-# Hi there, I'm SolarRabbit
+# Hi there, I'm SolarRabbit!
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SolarRabbit&theme=gruvbox)](https://codeforces.com/profile/SolarRabbit)
+<details>
+  <summary>
+    <b>Codeforces</b>
+  </summary>
+  <a href="https://codeforces.com/profile/SolarRabbit"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=SolarRabbit&theme=gruvbox"/></a>
+</details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=solarrabbit99&show_icons=true&theme=gruvbox)](https://github.com/solarrabbit99/github-readme-stats)
+**[Devpost Profile](https://devpost.com/zhenghanlee)**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solarrabbit99&theme=gruvbox&langs_count=5)](https://github.com/solarrabbit99/github-readme-stats)
+**[Spigot Resources](https://www.spigotmc.org/resources/authors/solarrabbit.1186665/)**
 
-## Other links
+<details>
+  <summary>
+    <b>Other Statistics</b>
+  </summary>
+  <a href="https://github.com/solarrabbit99/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=solarrabbit99&show_icons=true&theme=gruvbox"/></a>
 
-### [Devpost Profile](https://devpost.com/zhenghanlee)
-
-### [Spigot Resources](https://www.spigotmc.org/resources/authors/solarrabbit.1186665/)
+  <a href="https://github.com/solarrabbit99/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solarrabbit99&theme=gruvbox&langs_count=5"/></a>
+</details>
