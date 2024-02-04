@@ -9,8 +9,6 @@
 
 **[Devpost Profile](https://devpost.com/zhenghanlee)**
 
-**[Spigot Resources](https://www.spigotmc.org/resources/authors/solarrabbit.1186665/)**
-
 <details>
   <summary>
     <b>Other Statistics</b>
